@@ -1,3 +1,3 @@
 # Learnyounode
 
-This is just a Node.js study repositorie!
+A simple Node.js studies repository
